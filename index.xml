@@ -13,20 +13,42 @@
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/about/</link>
-      <pubDate>Sat, 25 Jan 2020 20:19:01 +0100</pubDate>
-      
-      <guid>http://example.org/about/</guid>
-      <description>sasasa</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
       <link>http://example.org/contact/</link>
       <pubDate>Sat, 25 Jan 2020 20:19:01 +0100</pubDate>
       
       <guid>http://example.org/contact/</guid>
-      <description>sasasa</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kredyty firmowe</title>
+      <link>http://example.org/firmowe/</link>
+      <pubDate>Sat, 25 Jan 2020 20:19:01 +0100</pubDate>
+      
+      <guid>http://example.org/firmowe/</guid>
+      <description>Kredyty firmowe – to kredyty dla osób prowadzących działalność gospodarczą, spółek nieposiadających osobowości prawnej, spółek kapitałowych.
+Rodzaje kredytów:
+   Kredyt obrotowy    Kredyty deweloperskie    Kredyt inwestycyjny    Pożyczka hipoteczna    Kredyt w rachunku bieżącym   </description>
+    </item>
+    
+    <item>
+      <title>Kredyty hipoteczne</title>
+      <link>http://example.org/hipoteczne/</link>
+      <pubDate>Sat, 25 Jan 2020 20:19:01 +0100</pubDate>
+      
+      <guid>http://example.org/hipoteczne/</guid>
+      <description>Oferta obejmuje kredyty hipoteczne na:
+   zakup mieszkania lub domu    budowa domu    wykończenie, remont, rozbudowa lub modernizacja mieszkania lub domu    zakup siedliska lub domku letniskowego    zakup działki budowlanej    zakup garażu    przekształcenie lokatorskiego lub własnościowego spółdzielczego prawa do lokalu w prawo własności    wykup mieszkania komunalnego lub zakładowego    zakup domu jednorodzinnego z częścią usługową    zakup nieruchomości mieszkalnej w celach inwestycyjnych    spłata kredytu zaciągniętego na cele mieszkaniowe w innym banku – refinansowanie    spłata innych kredytów i pożyczek zaciągniętych w innych bankach – konsolidacja    cel nieokreślony    nabycie udziału we współwłasności nieruchomości   Waluty kredytu</description>
+    </item>
+    
+    <item>
+      <title>Leasing</title>
+      <link>http://example.org/leasing/</link>
+      <pubDate>Sat, 25 Jan 2020 20:19:01 +0100</pubDate>
+      
+      <guid>http://example.org/leasing/</guid>
+      <description>Leasing finansowy:
+   brak minimalnego okresu leasingu    przedmiot leasingu zaliczany jest do majątku i można go amortyzować    jeden leasing – aż trzy koszty uzyskania przychodów: części odsetkowe rat leasingowych, amortyzacja naniesień (budynki, budowle, urządzenia), koszty eksploatacji.    możesz dowolnie podzielić raty wynagrodzenia na część kapitałową i odsetkową    podatek VAT rozliczysz na zasadach ogólnych   Leasing operacyjny:</description>
     </item>
     
   </channel>

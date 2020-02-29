@@ -2231,7 +2231,7 @@ h3 {
 .footer .footer_top {
   padding-top: 145px;
   padding-bottom: 129px;
-  background: #1F1F1F;
+  background: #21346e;
 }
 
 @media (max-width: 767px) {
@@ -6254,3 +6254,46 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+/* line 94, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
+.welcome_docmed_area .welcome_docmed_info ul {
+  margin-bottom: 40px;
+  margin-top: 25px;
+}
+
+/* line 97, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
+.welcome_docmed_area .welcome_docmed_info ul li {
+  color: #727272;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+/* line 101, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
+.welcome_docmed_area .welcome_docmed_info ul li i {
+  margin-right: 10px;
+  color: #5DB2FF;
+  font-weight: 16px;
+}
+
+
+/* line 94, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
+.business_info ul {
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+/* line 97, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
+.business_info ul li {
+  color: #727272;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+/* line 101, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
+.business_info ul li i {
+  margin-right: 10px;
+  color: #5DB2FF;
+  font-weight: 16px;
+}
