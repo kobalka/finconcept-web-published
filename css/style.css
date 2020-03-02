@@ -1237,6 +1237,10 @@ h3 {
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_slider.scss */
 .slider_bg_2 {
+  background-image: url(../img/banner/banner2.jpg);
+}
+
+.slider_bg_3 {
   background-image: url(../img/banner/banner3.jpg);
 }
 
